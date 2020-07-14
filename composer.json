@@ -1,0 +1,14 @@
+{
+    "name": "schinchkar/hello_world",
+    "description": "test",
+    "authors": [
+        {
+            "name": "schinchkar",
+            "email": "schinchkar@xento.com"
+        }
+    ],
+    "require": {},
+	"autoload":{
+	"psr-4":{"HelloWorld\\" : "src/" }
+	}
+}
